@@ -57,6 +57,8 @@ p{
 	padding: 0 20px;
 	width: 1400px;
 }
+
+ /* footer */
 #footer div {
 	height: 174px;
 	overflow: hidden;
@@ -99,6 +101,7 @@ p{
 	text-shadow: 1px 1px 1px #8da181;
 }
 
+/* navigation bar */
 .topnav {
   background-color: #0C264A;
   box-shadow: 0 1px 2px black;
@@ -117,6 +120,9 @@ p{
     margin-left: auto;
     margin-right: auto;
 }
+
+
+
 a{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
@@ -127,7 +133,7 @@ a{
 }
 
 
-
+/* body */
 #body {
 	margin:0 auto 97px;
 	min-height:1005px;
